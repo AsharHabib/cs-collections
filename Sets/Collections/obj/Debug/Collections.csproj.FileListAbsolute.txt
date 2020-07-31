@@ -1,0 +1,7 @@
+D:\C#\Collections\Collections\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+D:\C#\Collections\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+D:\C#\Collections\Collections\Collections\bin\Debug\Collections.exe.config
+D:\C#\Collections\Collections\Collections\bin\Debug\Collections.exe
+D:\C#\Collections\Collections\Collections\bin\Debug\Collections.pdb
+D:\C#\Collections\Collections\Collections\obj\Debug\Collections.exe
+D:\C#\Collections\Collections\Collections\obj\Debug\Collections.pdb
